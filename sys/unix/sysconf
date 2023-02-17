@@ -103,7 +103,7 @@ MAX_STATUENAME_RANK=200
 #   %D current time, YYYYMMDDhhmmss format
 #   %n player name
 #   %N first character of player name
-DUMPLOGFILE=/dgldir/userdata/%N/%n/dumplog/%t.nh366.txt
+DUMPLOGFILE=/dgldir/userdata/%N/%n/dumplog/%t.nh367.txt
 
 # Number of bones file pools.
 # The pool you belong to is determined at game start. You will

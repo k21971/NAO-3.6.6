@@ -13,10 +13,11 @@
 COMPILEREVISION?=1
 
 # this is the chroot dir
-PREFIX=$(wildcard ~)/nh/install
+#PREFIX=$(wildcard ~)/nh/install
+PREFIX=/opt/nethack/nethack.alt.org
 
 # this is the dir where NetHack is inside the chroot
-HACKDIR=/nh366.20200315-1
+HACKDIR=/nh367.20230217-1
 INSTDIR=$(PREFIX)$(HACKDIR)
 SHELLDIR=$(PREFIX)/games
 VARDIR=$(INSTDIR)/var
